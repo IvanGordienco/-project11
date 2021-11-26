@@ -1,12 +1,123 @@
-input {
+input.login {
     width: 20%;
     height: 45px;
     font-size 1em;
     color: black;
     border: solid 2px black;
     border-radius: 10px;
-
 }
 .button {
-background-color: blue;
+   width: 20%;
+    height: 45px;
+    font-size 1em;
+    color: white;
+    border: solid 2px black;
+    border-radius: 10px;
+    background-color: blue;
+}
+
+.cover {
+align = "center"
+}
+.button_single {
+    background-color: blue;
+    color: white;
+}
+div.text {
+font-family: Arial
+font-size: 40px
+}
+
+.green{
+    background: #7FFFD4;
+    overflow: hidden;
+    max-width: 100px;
+    margin: 10px auto;
+    padding: 10px;
+
+    }
+.blue{
+    background: #00FFFF;
+    overflow: hidden;
+    max-width: 100px;
+    margin: 10px auto;
+    padding: 10px;
+    display: inline;
+}
+.orange {
+    background: #FFE4B5;
+    overflow: hidden;
+    max-width: 100px;
+    margin: 10px auto;
+    padding: 10px;
+
+
+
+}
+.purple{
+    background: #DDA0DD;
+    overflow: hidden;
+    max-width: 100px;
+    margin: 10px auto;
+    padding: 10px;
+    display: inline;
+
+}
+
+input.poss {
+    width: 50%;
+    height: 45px;
+    font-size 1em;
+    color: black;
+    border: solid 2px black;
+    border-radius: 10px;
+}
+
+input.button2 {
+    width: 15%;
+    height: 35px;
+    font-size 1em;
+    color: white;
+    border: solid 2px black;
+    border-radius: 5px;
+    background-color: blue;
+
+}
+
+table.month {
+background-color: #7FFFD4;
+width: 50%;
+font-size: 20px;
+}
+
+input.subscription { width: 40%;
+    height: 45px;
+    font-size 1em;
+    color: white;
+    border: solid 2px black;
+    border-radius: 10px;
+    background-color: blue;}
+
+table.month1 {
+background-color: #DDA0DD;
+width: 50%;
+font-size: 20px;
+}
+
+input.subscription1 { width: 40%;
+    height: 45px;
+    font-size 1em;
+    color: white;
+    border: solid 2px black;
+    border-radius: 10px;
+    background-color: blue;
+    }
+.button_single {
+    width: 20%;
+    height: 45px;
+    font-size 1em;
+    color: white;
+    border: solid 2px black;
+    border-radius: 10px;
+    background-color: blue;
 }
